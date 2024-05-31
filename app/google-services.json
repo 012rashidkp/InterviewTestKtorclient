@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348166108197",
+    "project_id": "interviewtest-dbbc8",
+    "storage_bucket": "interviewtest-dbbc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348166108197:android:d98013558ee8c9f483fbcc",
+        "android_client_info": {
+          "package_name": "com.Test.interviewtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsqcm1BA77dPJlt8MAg--OtBgOLXL4jmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
